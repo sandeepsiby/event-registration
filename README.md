@@ -4,12 +4,14 @@ A sleek and responsive Event Registration Form built with HTML, Tailwind CSS, an
 Includes form validation, interactive confirmation, and a smooth user experience — perfect for workshops, conferences, and online events.
 
 🌐 Live Demo
-View Website
 
-📸 Demo
+https://sandeepsiby.github.io/event-registration/
+
+
 
 
  Features
+ 
 Clean, modern UI with Tailwind CSS
 
 Client-side form validation (name, email, phone, session)
